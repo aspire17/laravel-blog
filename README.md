@@ -1,6 +1,6 @@
 # laravel-blog
 
-laravel简书blog
+laravel简书blog管理系统
 
 环境参数
 框架 Laravel 5.4 数据库 Mysql 5.7.8 开发环境 * 技术语言 PHP 5.6
